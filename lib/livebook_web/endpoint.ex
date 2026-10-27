@@ -1,4 +1,8 @@
 defmodule LivebookWeb.Endpoint do
+  @moduledoc """
+  〚📦:a5a64ffb-a0d8-59fd-b76e-9506932499fc〛 LivebookWeb.Endpoint :: Phoenix endpoint: sessions, LiveView/JS sockets, gzip static, force_ssl.
+  """
+
   use Phoenix.Endpoint, otp_app: :livebook
 
   # The session will be stored in the cookie and signed,

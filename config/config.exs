@@ -1,3 +1,4 @@
+# 〚📁:2a1f6427-bab1-5433-9763-8c4b520c7aba〛 config/config.exs :: Base runtime configuration (endpoint, auth default, apps manager).
 import Config
 
 # Configures the endpoint

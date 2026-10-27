@@ -1,4 +1,8 @@
 defmodule Livebook.ZTA.LivebookTeams do
+  @moduledoc """
+  〚📦:6f92e26b-82ac-5a74-8adf-dcb15f5485a2〛 Livebook.ZTA.LivebookTeams :: Livebook Teams zero-trust identity provider (OAuth handshake, token cache, group access).
+  """
+
   use LivebookWeb, :verified_routes
 
   alias Livebook.Hubs

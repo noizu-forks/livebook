@@ -1,0 +1,110 @@
+---
+pointers:
+  2a1f6427-bab1-5433-9763-8c4b520c7aba:
+    created_at: 2026-10-27T04:53:56.170507Z
+    description: Base runtime configuration (endpoint, auth default, apps manager).
+    file_path: config/config.exs
+    function: config/config.exs
+    kind: file
+    line: 1
+    locations:
+      - file_path: config/config.exs
+        line: 1
+    token: 𓭝𔀋𔘈𔍊
+    updated_at: 2026-10-27T04:53:56.170507Z
+  4c99ddeb-da78-5a39-93e6-826ee9b2772b:
+    created_at: 2026-10-27T04:53:56.170504Z
+    description: 'OTP application callback: boots supervision tree, storage, endpoint, runtimes.'
+    file_path: lib/livebook/application.ex
+    function: Livebook.Application
+    kind: module
+    line: 3
+    locations:
+      - file_path: lib/livebook/application.ex
+        line: 3
+    token: 𓝡𓹖𔙚𓓛
+    updated_at: 2026-10-27T04:53:56.170504Z
+  6f92e26b-82ac-5a74-8adf-dcb15f5485a2:
+    created_at: 2026-10-27T04:53:56.170487Z
+    description: Livebook Teams zero-trust identity provider (OAuth handshake, token cache, group access).
+    file_path: lib/livebook/zta/livebook_teams.ex
+    function: Livebook.ZTA.LivebookTeams
+    kind: module
+    line: 3
+    locations:
+      - file_path: lib/livebook/zta/livebook_teams.ex
+        line: 3
+    token: 𓍨𓗅𓟩𓯂
+    updated_at: 2026-10-27T04:53:56.170487Z
+  80e79d44-acb2-5043-9d94-07c84e20371c:
+    created_at: 2026-10-27T04:53:56.170472Z
+    description: HTTP + LiveView routes, auth pipelines, public/app/live_session scopes.
+    file_path: lib/livebook_web/router.ex
+    function: LivebookWeb.Router
+    kind: module
+    line: 3
+    locations:
+      - file_path: lib/livebook_web/router.ex
+        line: 3
+    token: 𓋴𔖋𓗑𔆼
+    updated_at: 2026-10-27T04:53:56.170472Z
+  8f810ce2-ac46-5cfc-9a1e-eb265a5dd943:
+    created_at: 2026-10-27T04:53:56.170511Z
+    description: ETS-backed entity-attribute-value store persisted to an ETS dump file on disk.
+    file_path: lib/livebook/storage.ex
+    function: Livebook.Storage
+    kind: module
+    line: 3
+    locations:
+      - file_path: lib/livebook/storage.ex
+        line: 3
+    token: 𔂤𔋧𓜿𓎓
+    updated_at: 2026-10-27T04:55:03.548518Z
+  977eabb4-c168-57c0-a310-dbeab31751f7:
+    created_at: 2026-10-27T04:53:56.170491Z
+    description: Public Elixir API for embedding/integrating Livebook (runtimes, config, apps).
+    file_path: lib/livebook.ex
+    function: Livebook
+    kind: module
+    line: 3
+    locations:
+      - file_path: lib/livebook.ex
+        line: 3
+    token: 𓓍𓬈𔙏𓑷
+    updated_at: 2026-10-27T04:53:56.170491Z
+  9b92ad9f-bf35-5207-8c7e-22ed2eb4628d:
+    created_at: 2026-10-27T04:53:56.170514Z
+    description: Livebook fork entry point (noizu-forks/livebook).
+    file_path: README.md
+    function: README
+    kind: file
+    line: 3
+    locations:
+      - file_path: README.md
+        line: 3
+    token: 𔊙𓝅𓽥𓩭
+    updated_at: 2026-10-27T04:53:56.170514Z
+  a4fc03da-b1e4-5c53-93a6-8601cdb422d1:
+    created_at: 2026-10-27T04:53:56.170495Z
+    description: Build definition, deps, releases, container/desktop config.
+    file_path: mix.exs
+    function: mix.exs
+    kind: file
+    line: 1
+    locations:
+      - file_path: mix.exs
+        line: 1
+    token: 𓕌𓦼𓋾𓗁
+    updated_at: 2026-10-27T04:53:56.170495Z
+  a5a64ffb-a0d8-59fd-b76e-9506932499fc:
+    created_at: 2026-10-27T04:53:56.170518Z
+    description: 'Phoenix endpoint: sessions, LiveView/JS sockets, gzip static, force_ssl.'
+    file_path: lib/livebook_web/endpoint.ex
+    function: LivebookWeb.Endpoint
+    kind: module
+    line: 3
+    locations:
+      - file_path: lib/livebook_web/endpoint.ex
+        line: 3
+    token: 𔒖𓝌𓎍𓐬
+    updated_at: 2026-10-27T04:53:56.170518Z

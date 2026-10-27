@@ -1,4 +1,7 @@
 defmodule Livebook.Storage do
+  @moduledoc """
+  〚📦:8f810ce2-ac46-5cfc-9a1e-eb265a5dd943〛 Livebook.Storage :: ETS-backed entity-attribute-value store persisted to an ETS dump file on disk.
+  """
   # Storage for arbitrary data in [Entity-Attribute-Value](https://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model)
   # fashion.
   #

@@ -1,4 +1,8 @@
 defmodule Livebook.Application do
+  @moduledoc """
+  〚📦:4c99ddeb-da78-5a39-93e6-826ee9b2772b〛 Livebook.Application :: OTP application callback: boots supervision tree, storage, endpoint, runtimes.
+  """
+
   use Application
 
   require Logger
