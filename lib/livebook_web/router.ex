@@ -1,4 +1,8 @@
 defmodule LivebookWeb.Router do
+  @moduledoc """
+  〚📦:80e79d44-acb2-5043-9d94-07c84e20371c〛 LivebookWeb.Router :: HTTP + LiveView routes, auth pipelines, public/app/live_session scopes.
+  """
+
   use LivebookWeb, :router
   import Phoenix.LiveDashboard.Router
 

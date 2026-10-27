@@ -1,3 +1,4 @@
+# 〚📁:a4fc03da-b1e4-5c53-93a6-8601cdb422d1〛 mix.exs :: Build definition, deps, releases, container/desktop config.
 if System.otp_release() < "27" do
   Mix.raise("Livebook requires Erlang/OTP 27+")
 end

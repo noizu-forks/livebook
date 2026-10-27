@@ -1,5 +1,7 @@
 defmodule Livebook do
   @moduledoc """
+  〚📦:977eabb4-c168-57c0-a310-dbeab31751f7〛 Livebook :: Public Elixir API for embedding/integrating Livebook (runtimes, config, apps).
+
   This module provides a public Elixir API for integrating with Livebook.
 
   ## Configuration
