@@ -2,6 +2,10 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2026-10-26
+
+- docs: doc-sweep 2026-10-26 — added docs/PROJ-LAYOUT, PROJ-ARCH, PROJ-SCHEMA, THREAT-MODEL (+summaries); seeded `.meta/pointers.yaml` (doc-pointers sync in follow-up PR).
+
 ## [Unreleased](https://github.com/livebook-dev/livebook/tree/main)
 
 ## v0.19
